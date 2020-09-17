@@ -39,6 +39,7 @@
         </activity>
         <activity android:name="com.example.gshare.RegisterActivity" />
         <activity android:name="com.example.gshare.HomePageActivity" />
+s
         <activity android:name="com.example.gshare.ChatActivity" />
         <activity android:name="com.example.gshare.Profile.ProfileActivity" />
         <activity android:name="com.example.gshare.MyNoticesActivity" />
