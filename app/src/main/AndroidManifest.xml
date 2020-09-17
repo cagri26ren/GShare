@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gshare">
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/g_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_person_black_24dp"
+        android:usesCleartextTraffic="true"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".RegisterActivity"/>
+        <activity android:name=".HomePageActivity"/>
+        <activity android:name=".ChatActivity"/>
+        <activity android:name=".Profile.ProfileActivity"/>
+        <activity android:name=".MyNoticesActivity"/>
+        <activity android:name=".Notice.ActivityContqactTry"/>
+    </application>
+
+</manifest>

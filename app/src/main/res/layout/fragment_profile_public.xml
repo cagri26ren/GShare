@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayoutProfile"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <fragment
+        android:id="@+id/fragment15"
+        android:name="com.example.gshare.TopBarClass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ScrollView
+        android:id="@+id/scrollViewProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+
+        android:layout_height="match_parent"
+        android:layout_marginTop="45dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="208dp">
+
+                <ImageButton
+                    android:id="@+id/backButton"
+                    android:layout_width="64dp"
+                    android:layout_height="29dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/android_arrow_back_1161833" />
+
+                <ImageButton
+                    android:id="@+id/editProfileButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/holo_red_light"
+                    android:contentDescription="@string/editProfileButton"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.107"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.911"
+                    app:srcCompat="@drawable/add_bookmark" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="150dp"
+                    android:orientation="horizontal"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <ImageView
+                        android:id="@+id/profilePic"
+                        android:layout_width="129dp"
+                        android:layout_height="119dp"
+                        android:contentDescription="@string/profile_pic"
+                        app:srcCompat="@mipmap/ic_launcher" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginStart="10dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/nameTextView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="sans-serif-condensed-medium"
+                            android:text="@string/name_surname"
+                            android:textColor="#140707"
+                            android:textSize="24sp" />
+
+                        <TextView
+                            android:id="@+id/usernameTextView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/username" />
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <ImageView
+                                android:id="@+id/lenderRating"
+                                android:layout_width="107dp"
+                                android:layout_height="35dp"
+                                android:contentDescription="@string/lender_rating"
+                                app:srcCompat="@drawable/lender_rating" />
+
+                            <ImageView
+                                android:id="@+id/borrowerRating"
+                                android:layout_width="107dp"
+                                android:layout_height="35dp"
+                                android:layout_marginStart="0dp"
+                                android:contentDescription="@string/borrower_rating"
+                                app:srcCompat="@drawable/borrower_rating" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/badgesLinearLayout"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <ImageView
+                                android:id="@+id/badge1"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:contentDescription="@string/badge1"
+                                app:srcCompat="@drawable/ic_car_black_24dp" />
+
+                            <ImageView
+                                android:id="@+id/badge2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="5dp"
+                                android:contentDescription="@string/badge2"
+                                app:srcCompat="@drawable/ic_pets_black_24dp" />
+
+                            <ImageView
+                                android:id="@+id/badge3"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="5dp"
+                                android:contentDescription="@string/badge3"
+                                app:srcCompat="@drawable/ic_scissors_black_24dp" />
+
+                            <ImageView
+                                android:id="@+id/badge4"
+                                android:layout_width="28dp"
+                                android:layout_height="23dp"
+                                android:layout_marginStart="5dp"
+                                android:contentDescription="@string/badge4"
+                                app:srcCompat="@android:drawable/ic_partial_secure" />
+
+                            <ImageView
+                                android:id="@+id/badge5"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="5dp"
+                                android:contentDescription="@string/badge5"
+                                app:srcCompat="@drawable/ic_school_black_24dp" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/captionTransactions"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-condensed"
+                android:text="@string/transactions"
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="#050202"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="447dp"
+        android:layout_gravity="bottom">
+
+        <ListView
+            android:id="@+id/publicProfileList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </ListView>
+    </RelativeLayout>
+</FrameLayout>

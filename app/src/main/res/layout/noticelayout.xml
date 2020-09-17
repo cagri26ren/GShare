@@ -1,0 +1,92 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="60dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:orientation="horizontal"
+    android:weightSum="100"
+    android:padding="5dp">
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:weightSum="100"
+            android:layout_weight="30"
+            android:layout_centerInParent="true">
+
+                <TextView
+                    android:id="@+id/namaffdasd"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="50"
+                    android:text="Name"
+                    android:textAppearance="?android:attr/textAppearanceButton"
+                    android:textColor="@android:color/black"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/productName"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="50"
+                    android:text="Kulaklık"
+                    android:textAppearance="?android:attr/textAppearanceButton"
+                    android:textColor="@android:color/black" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:weightSum="100"
+            android:layout_weight="30"
+            android:layout_centerInParent="true">
+
+                <TextView
+                    android:id="@+id/decpirion"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="50"
+                    android:text="Description"
+                    android:textAppearance="?android:attr/textAppearanceButton"
+                    android:textColor="@android:color/black"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/productDesription"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="50"
+                    android:text="On numar karşlm"
+                    android:textAppearance="?android:attr/textAppearanceButton"
+                    android:textColor="@android:color/black" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal"
+            android:layout_weight="40"
+            android:layout_marginTop="5dp"
+            android:layout_centerInParent="true">
+
+                <ImageView
+                    android:id="@+id/imageView8"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    app:srcCompat="@drawable/g_icon" />
+
+                <TextView
+                    android:id="@+id/gamouth"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:text="150"
+                    android:textAppearance="?android:attr/textAppearanceButton"
+                    android:textColor="@android:color/black"
+                    android:textStyle="bold" />
+        </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,629 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\482147a0b9b2dc9cb886b5242c37fde3\jetified-firebase-analytics-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.firebaseui:firebase-ui:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\85537ccdc20ded94cb35dc53727731a1\jetified-firebase-ui-0.4.3\AndroidManifest.xml:2:1-13:12
+MERGED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:2:1-71:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\43b940c5c9925bf6ecd28fd5faac33b6\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.firebaseui:firebase-ui-database:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\4241c701b72759567be1de14b202de19\jetified-firebase-ui-database-0.4.3\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\704e96d50a7530342f86c3e233a5893e\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\aa97c9b18b13aaf31210e35bccd64069\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\40fdccd7eaf1ee340964a1e2fa9a501c\jetified-firebase-database-17.0.0\AndroidManifest.xml:15:1-36:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f2c01a7dd7c88698d68f898fb3c2242a\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ac3b2d9dd5b025f04660961d6d760286\jetified-firebase-storage-19.1.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\9852e56ec3d1f80860f9d550be6433fb\jetified-play-services-measurement-sdk-17.2.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\6ce92dc3852ae6f3b7f685ac46887dee\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\1c4e7ef12070d6dd76e45ac9b43d175c\jetified-firebase-auth-9.2.1\AndroidManifest.xml:16:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\efd978ed0df2dd2686b121647727ec92\jetified-play-services-auth-9.2.1\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f92701b961caa7e532dda6786ac62078\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth-common:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b2654735489a48a9b352616f0b2f7f1d\jetified-firebase-auth-common-9.2.1\AndroidManifest.xml:16:1-22:12
+MERGED from [com.google.firebase:firebase-auth-module:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\2705d27885d63cef9de2476453d981f5\jetified-firebase-auth-module-9.2.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\48134285d5bd3a064039fe2bc7ec0d96\jetified-play-services-auth-base-9.2.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\bae8c1dd1c081f0380638d2c7819716b\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b54d56388a110dbcb733a5eec8e7180d\jetified-firebase-common-19.1.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\c36d7d43babd11470ee1f08cb71266df\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\34d2a081c8c620c4e5d8934a8d1def49\jetified-play-services-measurement-impl-17.2.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\dd590b63310b23aa6fad8c96c49ba2c3\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f0a31eacb6f1305e298039a6f1ed506c\jetified-play-services-measurement-base-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f03a95edb331ea3111d39d0cfdd7cc04\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\09fae555c7deab552b48f251db12653d\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\cb407c193bc548e382c21733852afab7\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f4c807955d1d1ec00dabd9105e83a68c\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.11.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b3e721e343dd52dacbd913fa67148410\jetified-facebook-android-sdk-4.11.0\AndroidManifest.xml:21:1-30:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\86c8910bed836241e74ca9080b9470ae\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\0d9ad5aefc794f2bf4ef291a9dff83bb\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\862eae1fdea2fc1c31b1b0426dd77091\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ddca6860c13ad76901e60a522b7e87d6\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\0c0dfb47bc6a920d50c52bde5456165a\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\955c641847ba2df52afc323696906270\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\4c75c89f4ffb1f3b7adfa8a19a847bf8\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\0a5198fa4c7c491daca8bdec1906b614\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\6b18b352e12b54764dff714d655ac6bf\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\c2e126e64d8240afd047b14fc60c8420\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\15cabb114fcbec80ad1fbfcd139fedd5\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\c1e9246662b24a2c741cb2dbd6337376\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\03de55cd3b85541956c669f0753d4212\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\cb428ffbc0fb416b750b7dca2623f77d\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\9e1400656dde34050f68e351b1adb264\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\be85214f917019de43899e8177fcfbd6\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a4a6ef04467aeebd053038589415372b\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\384d89ea5d8bfd55dd75d9a3a4bce0dc\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a1456b558f6c627686625298162f1234\core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\83ef9d87a9e62923e5692eb6d8033f4c\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\439b988da966db6f5d395be260ec97a8\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\4f8ead6c9f87a0c19d37e313d1957ccf\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\fc54897c59d14fcf824254a75ed0ccfc\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7ef608349664ebdeebff624dc2137898\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\2b56a37d16f5353b4370aa1ca3465ddd\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\19c0edd68f1a2509ff77ed1e7606d154\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\4c53e151fd72c36515cf3d2d52bffd9b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7194cec0324cb747da949ef28e1a4082\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\87f7a73903353f6a3ab82474e28c7c46\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a572e4a7e5af9232d077a5d24b5f5f7c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\8503c80e31869a2a6f67d5761170f2f4\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\c62c2c9cc9539944524a267dd5d586f1\jetified-firebase-database-collection-16.0.1\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:5:5-83
+MERGED from [com.firebaseui:firebase-ui:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\85537ccdc20ded94cb35dc53727731a1\jetified-firebase-ui-0.4.3\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\85537ccdc20ded94cb35dc53727731a1\jetified-firebase-ui-0.4.3\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\4241c701b72759567be1de14b202de19\jetified-firebase-ui-database-0.4.3\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\4241c701b72759567be1de14b202de19\jetified-firebase-ui-database-0.4.3\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\40fdccd7eaf1ee340964a1e2fa9a501c\jetified-firebase-database-17.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\40fdccd7eaf1ee340964a1e2fa9a501c\jetified-firebase-database-17.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ac3b2d9dd5b025f04660961d6d760286\jetified-firebase-storage-19.1.0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ac3b2d9dd5b025f04660961d6d760286\jetified-firebase-storage-19.1.0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\34d2a081c8c620c4e5d8934a8d1def49\jetified-play-services-measurement-impl-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\34d2a081c8c620c4e5d8934a8d1def49\jetified-play-services-measurement-impl-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\dd590b63310b23aa6fad8c96c49ba2c3\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\dd590b63310b23aa6fad8c96c49ba2c3\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\482147a0b9b2dc9cb886b5242c37fde3\jetified-firebase-analytics-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\482147a0b9b2dc9cb886b5242c37fde3\jetified-firebase-analytics-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:11:5-69:19
+MERGED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:11:5-69:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\43b940c5c9925bf6ecd28fd5faac33b6\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\43b940c5c9925bf6ecd28fd5faac33b6\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\aa97c9b18b13aaf31210e35bccd64069\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\aa97c9b18b13aaf31210e35bccd64069\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\40fdccd7eaf1ee340964a1e2fa9a501c\jetified-firebase-database-17.0.0\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\40fdccd7eaf1ee340964a1e2fa9a501c\jetified-firebase-database-17.0.0\AndroidManifest.xml:28:5-34:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f2c01a7dd7c88698d68f898fb3c2242a\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f2c01a7dd7c88698d68f898fb3c2242a\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ac3b2d9dd5b025f04660961d6d760286\jetified-firebase-storage-19.1.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ac3b2d9dd5b025f04660961d6d760286\jetified-firebase-storage-19.1.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\9852e56ec3d1f80860f9d550be6433fb\jetified-play-services-measurement-sdk-17.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\9852e56ec3d1f80860f9d550be6433fb\jetified-play-services-measurement-sdk-17.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\6ce92dc3852ae6f3b7f685ac46887dee\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\6ce92dc3852ae6f3b7f685ac46887dee\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\1c4e7ef12070d6dd76e45ac9b43d175c\jetified-firebase-auth-9.2.1\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\1c4e7ef12070d6dd76e45ac9b43d175c\jetified-firebase-auth-9.2.1\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\efd978ed0df2dd2686b121647727ec92\jetified-play-services-auth-9.2.1\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\efd978ed0df2dd2686b121647727ec92\jetified-play-services-auth-9.2.1\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f92701b961caa7e532dda6786ac62078\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f92701b961caa7e532dda6786ac62078\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-common:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b2654735489a48a9b352616f0b2f7f1d\jetified-firebase-auth-common-9.2.1\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b2654735489a48a9b352616f0b2f7f1d\jetified-firebase-auth-common-9.2.1\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\bae8c1dd1c081f0380638d2c7819716b\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\bae8c1dd1c081f0380638d2c7819716b\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b54d56388a110dbcb733a5eec8e7180d\jetified-firebase-common-19.1.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b54d56388a110dbcb733a5eec8e7180d\jetified-firebase-common-19.1.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\c36d7d43babd11470ee1f08cb71266df\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\c36d7d43babd11470ee1f08cb71266df\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\34d2a081c8c620c4e5d8934a8d1def49\jetified-play-services-measurement-impl-17.2.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\34d2a081c8c620c4e5d8934a8d1def49\jetified-play-services-measurement-impl-17.2.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f0a31eacb6f1305e298039a6f1ed506c\jetified-play-services-measurement-base-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f0a31eacb6f1305e298039a6f1ed506c\jetified-play-services-measurement-base-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f03a95edb331ea3111d39d0cfdd7cc04\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f03a95edb331ea3111d39d0cfdd7cc04\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\09fae555c7deab552b48f251db12653d\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\09fae555c7deab552b48f251db12653d\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\cb407c193bc548e382c21733852afab7\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\cb407c193bc548e382c21733852afab7\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f4c807955d1d1ec00dabd9105e83a68c\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f4c807955d1d1ec00dabd9105e83a68c\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.11.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b3e721e343dd52dacbd913fa67148410\jetified-facebook-android-sdk-4.11.0\AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.11.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b3e721e343dd52dacbd913fa67148410\jetified-facebook-android-sdk-4.11.0\AndroidManifest.xml:28:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a1456b558f6c627686625298162f1234\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a1456b558f6c627686625298162f1234\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\83ef9d87a9e62923e5692eb6d8033f4c\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\83ef9d87a9e62923e5692eb6d8033f4c\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a1456b558f6c627686625298162f1234\core-1.0.1\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:11:9-59
+	android:icon
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:9:9-40
+	android:allowBackup
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:14:9-65
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:12:9-44
+activity#com.example.gshare.MainActivity
+ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.gshare.RegisterActivity
+ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:22:9-53
+	android:name
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:22:19-51
+activity#com.example.gshare.HomePageActivity
+ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:23:9-53
+	android:name
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:23:19-51
+activity#com.example.gshare.ChatActivity
+ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:24:9-49
+	android:name
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:24:19-47
+activity#com.example.gshare.Profile.ProfileActivity
+ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:25:9-60
+	android:name
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:25:19-58
+activity#com.example.gshare.MyNoticesActivity
+ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:26:9-54
+	android:name
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:26:19-52
+activity#com.example.gshare.Notice.ActivityContqactTry
+ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:27:9-63
+	android:name
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml:27:19-61
+uses-sdk
+INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\482147a0b9b2dc9cb886b5242c37fde3\jetified-firebase-analytics-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\482147a0b9b2dc9cb886b5242c37fde3\jetified-firebase-analytics-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.firebaseui:firebase-ui:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\85537ccdc20ded94cb35dc53727731a1\jetified-firebase-ui-0.4.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\85537ccdc20ded94cb35dc53727731a1\jetified-firebase-ui-0.4.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\43b940c5c9925bf6ecd28fd5faac33b6\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\43b940c5c9925bf6ecd28fd5faac33b6\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-database:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\4241c701b72759567be1de14b202de19\jetified-firebase-ui-database-0.4.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\4241c701b72759567be1de14b202de19\jetified-firebase-ui-database-0.4.3\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\704e96d50a7530342f86c3e233a5893e\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\704e96d50a7530342f86c3e233a5893e\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\aa97c9b18b13aaf31210e35bccd64069\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\aa97c9b18b13aaf31210e35bccd64069\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\40fdccd7eaf1ee340964a1e2fa9a501c\jetified-firebase-database-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\40fdccd7eaf1ee340964a1e2fa9a501c\jetified-firebase-database-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f2c01a7dd7c88698d68f898fb3c2242a\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f2c01a7dd7c88698d68f898fb3c2242a\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ac3b2d9dd5b025f04660961d6d760286\jetified-firebase-storage-19.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ac3b2d9dd5b025f04660961d6d760286\jetified-firebase-storage-19.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\9852e56ec3d1f80860f9d550be6433fb\jetified-play-services-measurement-sdk-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\9852e56ec3d1f80860f9d550be6433fb\jetified-play-services-measurement-sdk-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\6ce92dc3852ae6f3b7f685ac46887dee\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\6ce92dc3852ae6f3b7f685ac46887dee\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\1c4e7ef12070d6dd76e45ac9b43d175c\jetified-firebase-auth-9.2.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\1c4e7ef12070d6dd76e45ac9b43d175c\jetified-firebase-auth-9.2.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\efd978ed0df2dd2686b121647727ec92\jetified-play-services-auth-9.2.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\efd978ed0df2dd2686b121647727ec92\jetified-play-services-auth-9.2.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f92701b961caa7e532dda6786ac62078\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f92701b961caa7e532dda6786ac62078\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-common:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b2654735489a48a9b352616f0b2f7f1d\jetified-firebase-auth-common-9.2.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b2654735489a48a9b352616f0b2f7f1d\jetified-firebase-auth-common-9.2.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\2705d27885d63cef9de2476453d981f5\jetified-firebase-auth-module-9.2.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\2705d27885d63cef9de2476453d981f5\jetified-firebase-auth-module-9.2.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\48134285d5bd3a064039fe2bc7ec0d96\jetified-play-services-auth-base-9.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\48134285d5bd3a064039fe2bc7ec0d96\jetified-play-services-auth-base-9.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\bae8c1dd1c081f0380638d2c7819716b\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\bae8c1dd1c081f0380638d2c7819716b\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b54d56388a110dbcb733a5eec8e7180d\jetified-firebase-common-19.1.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b54d56388a110dbcb733a5eec8e7180d\jetified-firebase-common-19.1.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\c36d7d43babd11470ee1f08cb71266df\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\c36d7d43babd11470ee1f08cb71266df\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\34d2a081c8c620c4e5d8934a8d1def49\jetified-play-services-measurement-impl-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\34d2a081c8c620c4e5d8934a8d1def49\jetified-play-services-measurement-impl-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\dd590b63310b23aa6fad8c96c49ba2c3\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\dd590b63310b23aa6fad8c96c49ba2c3\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f0a31eacb6f1305e298039a6f1ed506c\jetified-play-services-measurement-base-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f0a31eacb6f1305e298039a6f1ed506c\jetified-play-services-measurement-base-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f03a95edb331ea3111d39d0cfdd7cc04\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f03a95edb331ea3111d39d0cfdd7cc04\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\09fae555c7deab552b48f251db12653d\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\09fae555c7deab552b48f251db12653d\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\cb407c193bc548e382c21733852afab7\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\cb407c193bc548e382c21733852afab7\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f4c807955d1d1ec00dabd9105e83a68c\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f4c807955d1d1ec00dabd9105e83a68c\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:4.11.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b3e721e343dd52dacbd913fa67148410\jetified-facebook-android-sdk-4.11.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.11.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b3e721e343dd52dacbd913fa67148410\jetified-facebook-android-sdk-4.11.0\AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\86c8910bed836241e74ca9080b9470ae\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\86c8910bed836241e74ca9080b9470ae\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\0d9ad5aefc794f2bf4ef291a9dff83bb\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\0d9ad5aefc794f2bf4ef291a9dff83bb\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\862eae1fdea2fc1c31b1b0426dd77091\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\862eae1fdea2fc1c31b1b0426dd77091\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ddca6860c13ad76901e60a522b7e87d6\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ddca6860c13ad76901e60a522b7e87d6\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\0c0dfb47bc6a920d50c52bde5456165a\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\0c0dfb47bc6a920d50c52bde5456165a\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\955c641847ba2df52afc323696906270\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\955c641847ba2df52afc323696906270\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\4c75c89f4ffb1f3b7adfa8a19a847bf8\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\4c75c89f4ffb1f3b7adfa8a19a847bf8\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\0a5198fa4c7c491daca8bdec1906b614\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\0a5198fa4c7c491daca8bdec1906b614\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\6b18b352e12b54764dff714d655ac6bf\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\6b18b352e12b54764dff714d655ac6bf\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\c2e126e64d8240afd047b14fc60c8420\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\c2e126e64d8240afd047b14fc60c8420\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\15cabb114fcbec80ad1fbfcd139fedd5\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\15cabb114fcbec80ad1fbfcd139fedd5\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\c1e9246662b24a2c741cb2dbd6337376\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\c1e9246662b24a2c741cb2dbd6337376\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\03de55cd3b85541956c669f0753d4212\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\03de55cd3b85541956c669f0753d4212\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\cb428ffbc0fb416b750b7dca2623f77d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\cb428ffbc0fb416b750b7dca2623f77d\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\9e1400656dde34050f68e351b1adb264\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\9e1400656dde34050f68e351b1adb264\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\be85214f917019de43899e8177fcfbd6\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\be85214f917019de43899e8177fcfbd6\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a4a6ef04467aeebd053038589415372b\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a4a6ef04467aeebd053038589415372b\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\384d89ea5d8bfd55dd75d9a3a4bce0dc\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\384d89ea5d8bfd55dd75d9a3a4bce0dc\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a1456b558f6c627686625298162f1234\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a1456b558f6c627686625298162f1234\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\83ef9d87a9e62923e5692eb6d8033f4c\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\83ef9d87a9e62923e5692eb6d8033f4c\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\439b988da966db6f5d395be260ec97a8\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\439b988da966db6f5d395be260ec97a8\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\4f8ead6c9f87a0c19d37e313d1957ccf\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\4f8ead6c9f87a0c19d37e313d1957ccf\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\fc54897c59d14fcf824254a75ed0ccfc\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\fc54897c59d14fcf824254a75ed0ccfc\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7ef608349664ebdeebff624dc2137898\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7ef608349664ebdeebff624dc2137898\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\2b56a37d16f5353b4370aa1ca3465ddd\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\2b56a37d16f5353b4370aa1ca3465ddd\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\19c0edd68f1a2509ff77ed1e7606d154\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\19c0edd68f1a2509ff77ed1e7606d154\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\4c53e151fd72c36515cf3d2d52bffd9b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\4c53e151fd72c36515cf3d2d52bffd9b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7194cec0324cb747da949ef28e1a4082\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7194cec0324cb747da949ef28e1a4082\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\87f7a73903353f6a3ab82474e28c7c46\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\87f7a73903353f6a3ab82474e28c7c46\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a572e4a7e5af9232d077a5d24b5f5f7c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a572e4a7e5af9232d077a5d24b5f5f7c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\8503c80e31869a2a6f67d5761170f2f4\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\8503c80e31869a2a6f67d5761170f2f4\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\c62c2c9cc9539944524a267dd5d586f1\jetified-firebase-database-collection-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\c62c2c9cc9539944524a267dd5d586f1\jetified-firebase-database-collection-16.0.1\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Cagri Eren\Desktop\GShare\app\src\main\AndroidManifest.xml
+activity#com.firebase.ui.auth.ui.email.ConfirmRecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:12:9-15:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:13:13-88
+activity#com.firebase.ui.auth.ui.email.EmailHintContainerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:16:9-19:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:18:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:17:13-84
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:20:9-23:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:22:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:21:13-81
+activity#com.firebase.ui.auth.ui.email.RegisterEmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:24:9-27:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:26:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:25:13-79
+activity#com.firebase.ui.auth.ui.email.SignInNoPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:28:9-31:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:30:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:29:13-82
+activity#com.firebase.ui.auth.ui.email.SignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:32:9-35:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:33:13-72
+activity#com.firebase.ui.auth.ui.account_link.SaveCredentialsActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:36:9-39:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:38:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:37:13-88
+activity#com.firebase.ui.auth.ui.account_link.AccountLinkInitActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:40:9-43:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:42:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:41:13-88
+activity#com.firebase.ui.auth.ui.account_link.WelcomeBackIDPPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:44:9-47:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:46:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:45:13-85
+activity#com.firebase.ui.auth.ui.account_link.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:48:9-51:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:50:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:49:13-90
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:52:9-55:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:54:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:53:13-80
+activity#com.firebase.ui.auth.ui.idp.IDPSignInContainerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:56:9-59:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:58:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:57:13-82
+activity#com.firebase.ui.auth.ui.ChooseAccountActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:60:9-63:20
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:62:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:61:13-73
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:64:9-68:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:67:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:66:13-96
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:68:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.4.3] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\a14d8a9d33066b214e0c1e742fd2a386\jetified-firebase-ui-auth-0.4.3\AndroidManifest.xml:65:13-57
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\40fdccd7eaf1ee340964a1e2fa9a501c\jetified-firebase-database-17.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ac3b2d9dd5b025f04660961d6d760286\jetified-firebase-storage-19.1.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ac3b2d9dd5b025f04660961d6d760286\jetified-firebase-storage-19.1.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\34d2a081c8c620c4e5d8934a8d1def49\jetified-play-services-measurement-impl-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\34d2a081c8c620c4e5d8934a8d1def49\jetified-play-services-measurement-impl-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\dd590b63310b23aa6fad8c96c49ba2c3\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\dd590b63310b23aa6fad8c96c49ba2c3\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\40fdccd7eaf1ee340964a1e2fa9a501c\jetified-firebase-database-17.0.0\AndroidManifest.xml:25:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\40fdccd7eaf1ee340964a1e2fa9a501c\jetified-firebase-database-17.0.0\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ac3b2d9dd5b025f04660961d6d760286\jetified-firebase-storage-19.1.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ac3b2d9dd5b025f04660961d6d760286\jetified-firebase-storage-19.1.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b54d56388a110dbcb733a5eec8e7180d\jetified-firebase-common-19.1.0\AndroidManifest.xml:12:9-15:40
+MERGED from [com.google.firebase:firebase-common:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b54d56388a110dbcb733a5eec8e7180d\jetified-firebase-common-19.1.0\AndroidManifest.xml:12:9-15:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ac3b2d9dd5b025f04660961d6d760286\jetified-firebase-storage-19.1.0\AndroidManifest.xml:32:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b54d56388a110dbcb733a5eec8e7180d\jetified-firebase-common-19.1.0\AndroidManifest.xml:14:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\40fdccd7eaf1ee340964a1e2fa9a501c\jetified-firebase-database-17.0.0\AndroidManifest.xml:29:18-89
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\40fdccd7eaf1ee340964a1e2fa9a501c\jetified-firebase-database-17.0.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\40fdccd7eaf1ee340964a1e2fa9a501c\jetified-firebase-database-17.0.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\40fdccd7eaf1ee340964a1e2fa9a501c\jetified-firebase-database-17.0.0\AndroidManifest.xml:31:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ac3b2d9dd5b025f04660961d6d760286\jetified-firebase-storage-19.1.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ac3b2d9dd5b025f04660961d6d760286\jetified-firebase-storage-19.1.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\ac3b2d9dd5b025f04660961d6d760286\jetified-firebase-storage-19.1.0\AndroidManifest.xml:34:17-107
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\34d2a081c8c620c4e5d8934a8d1def49\jetified-play-services-measurement-impl-17.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\34d2a081c8c620c4e5d8934a8d1def49\jetified-play-services-measurement-impl-17.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\dd590b63310b23aa6fad8c96c49ba2c3\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\dd590b63310b23aa6fad8c96c49ba2c3\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\34d2a081c8c620c4e5d8934a8d1def49\jetified-play-services-measurement-impl-17.2.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\34d2a081c8c620c4e5d8934a8d1def49\jetified-play-services-measurement-impl-17.2.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\34d2a081c8c620c4e5d8934a8d1def49\jetified-play-services-measurement-impl-17.2.0\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\34d2a081c8c620c4e5d8934a8d1def49\jetified-play-services-measurement-impl-17.2.0\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\56ca84dd00fadfb72870a08fb4675c27\jetified-play-services-measurement-17.2.0\AndroidManifest.xml:49:13-87
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\935bfd1bb152723579014eac44b51296\jetified-play-services-measurement-api-17.2.0\AndroidManifest.xml:31:17-139
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\efd978ed0df2dd2686b121647727ec92\jetified-play-services-auth-9.2.1\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\efd978ed0df2dd2686b121647727ec92\jetified-play-services-auth-9.2.1\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\efd978ed0df2dd2686b121647727ec92\jetified-play-services-auth-9.2.1\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\efd978ed0df2dd2686b121647727ec92\jetified-play-services-auth-9.2.1\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\efd978ed0df2dd2686b121647727ec92\jetified-play-services-auth-9.2.1\AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\efd978ed0df2dd2686b121647727ec92\jetified-play-services-auth-9.2.1\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\efd978ed0df2dd2686b121647727ec92\jetified-play-services-auth-9.2.1\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\efd978ed0df2dd2686b121647727ec92\jetified-play-services-auth-9.2.1\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.2.1] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\efd978ed0df2dd2686b121647727ec92\jetified-play-services-auth-9.2.1\AndroidManifest.xml:29:13-58
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\7f43d074c57a99a84bcfd3126ef4a0c3\jetified-firebase-iid-19.0.0\AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\bae8c1dd1c081f0380638d2c7819716b\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\bae8c1dd1c081f0380638d2c7819716b\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\bae8c1dd1c081f0380638d2c7819716b\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\bae8c1dd1c081f0380638d2c7819716b\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b54d56388a110dbcb733a5eec8e7180d\jetified-firebase-common-19.1.0\AndroidManifest.xml:17:9-21:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b54d56388a110dbcb733a5eec8e7180d\jetified-firebase-common-19.1.0\AndroidManifest.xml:19:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b54d56388a110dbcb733a5eec8e7180d\jetified-firebase-common-19.1.0\AndroidManifest.xml:20:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b54d56388a110dbcb733a5eec8e7180d\jetified-firebase-common-19.1.0\AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.1.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\b54d56388a110dbcb733a5eec8e7180d\jetified-firebase-common-19.1.0\AndroidManifest.xml:18:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f4c807955d1d1ec00dabd9105e83a68c\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f4c807955d1d1ec00dabd9105e83a68c\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Cagri Eren\.gradle\caches\transforms-2\files-2.1\f4c807955d1d1ec00dabd9105e83a68c\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

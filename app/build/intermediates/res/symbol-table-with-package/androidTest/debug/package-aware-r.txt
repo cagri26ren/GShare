@@ -1,0 +1,4 @@
+com.example.gshare.test
+style InstrumentationActivityInvokerBootstrapActivityTheme
+style InstrumentationActivityInvokerEmptyActivityTheme
+style InstrumentationActivityInvokerFloatingActivityTheme

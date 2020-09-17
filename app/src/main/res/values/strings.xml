@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">GShare</string>
+    <string name="item_name">ItemName</string>
+    <string name="days">Days</string>
+    <string name="bellIcon">BellIcon</string>
+    <string name="gShareLogo">GShareLogo</string>
+    <string name="user_money">0</string>
+    <string name="homepage_background">HomepageBackground</string>
+    <string name="search">Search</string>
+    <string name="sortby_button">SortByButton</string>
+    <string name="empty_string"></string>
+    <string name="transactions">Transactions</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="username">Username</string>
+    <string name="name_surname">Name Surname</string>
+    <string name="time_left">Time Left: </string>
+    <string name="status_of_chat">Status</string>
+    <string name="chat">Chat</string>
+    <string name="message">Message</string>
+    <string name="date_time">Date and Time</string>
+    <string name="type_here">Type here...</string>
+    <string name="agree">Agree</string>
+    <string name="days_colon">Days:</string>
+    <string name="terminate">Termınate</string>
+    <string name="time_left_without_colon">Time Left</string>
+    <string name="returned">Returned</string>
+    <string name="not_returned">Not Returned</string>
+    <string name="sort_by">Sort By</string>
+    <string name="g_interval">G Interval</string>
+    <string name="distance">Distance</string>
+    <string name="km">km</string>
+    <string name="newest_first">Newest First</string>
+    <string name="alphabetical_sort">Alphabetically</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="apply">Apply</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="enter_old_password">Old password here</string>
+    <string name="enter_new_password">New password here</string>
+    <string name="comment">Comment</string>
+
+    <!--Popup Messages-->
+    <string name="confirm_publish">Are you sure you want to publish the notice?</string>
+    <string name="confirm_delete">Are you sure you want to remove the notice?</string>
+    <string name="confirm_terminate">Are you sure you want to terminate the deal?( You should get your item back before terminating!)</string>
+
+    <!--Content Descriptions-->
+    <string name="background">Background Image</string>
+    <string name="quests">QuestsButton</string>
+    <string name="bookmark_list">BookmarkListButton</string>
+    <string name="file_report">File Report</string>
+    <string name="lender_rating">Lender Rating</string>
+    <string name="borrower_rating">Borrower Rating</string>
+    <string name="badge1">Badge1</string>
+    <string name="badge2">Badge2</string>
+    <string name="badge3">Badge3</string>
+    <string name="badge4">Badge4</string>
+    <string name="badge5">Badge5</string>
+    <string name="editProfileButton">EditProfileButton</string>
+    <string name="background_chats_fragment">Background For Chats Fragment</string>
+    <string name="border_line">BorderLine</string>
+    <string name="delete_chat">DeleteChat</string>
+    <string name="item_pic">Item Picture</string>
+    <string name="icon_g">G Icon</string>
+    <string name="top_bar">Top Bar</string>
+    <string name="g_logo">G Logo</string>
+    <string name="delete_notice">Delete Notice</string>
+    <string name="category_image">Category Image</string>
+
+    <!--tabs-->
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="my_notices">My Notices</string>
+    <string name="chats">Chats</string>
+    <string name="profile">Profile</string>
+
+    <!--Category names-->
+    <string name="transport">Transport</string>
+    <string name="school">School</string>
+    <string name="laptop">Laptop</string>
+    <string name="camera">Camera</string>
+    <string name="stationary">Stationary</string>
+    <string name="pets">Pets</string>
+    <string name="books">Books</string>
+    <string name="others">Others</string>
+    <string name="spinner">Spinner</string>
+    <string-array name="categories">
+        <item>Transport</item>
+        <item>School</item>
+        <item>Technology</item>
+        <item>Camera</item>
+        <item>Stationary</item>
+        <item>Pets</item>
+        <item>Books</item>
+        <item>Others</item>
+    </string-array>
+
+    <!--Lending/Borrowing-->
+    <string name="borrowing">Borrowing</string>
+    <string name="lending">Lending</string>
+
+    <!--Constant Texts-->
+    <string name="status">Status:</string>
+    <string name="change_profile_picture">Change Picture</string>
+    <string name="change_name">Change Name</string>
+    <string name="change_password">Change Password</string>
+    <string name="edit_notice">Edit Notice</string>
+    <string name="notice">Notice</string>
+
+    <!--Register Part-->
+    <string name="loginPassword">Password</string>
+    <string name="loginUserName">Username</string>
+    <string name="logloginButton">Login</string>
+    <string name="regloginButton">Login</string>
+    <string name="logregisterButton">Register</string>
+    <string name="regregisterButton">Register</string>
+    <string name="loginTitle">Login</string>
+    <string name="registerWarnText">Don\'t have an account?</string>
+    <string name="textViewUsername">Username:</string>
+    <string name="textViewPassword">Password:</string>
+    <string name="checkBoxKeep">Keep me logged in</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="registerText">Register</string>
+    <string name="alreadyWarningText">Already have an account?</string>
+    <string name="registerEmail">E-mail</string>
+    <string name="nameSurname">Name and Surname (Will be displayed to other users):</string>
+    <string name="RegisterNameSurname">Name and Surname</string>
+
+    <!--Add Notice-->
+    <string name="addnotice">Add Notice</string>
+    <string name="publishbutton">Publish</string>
+    <string name="categorytext">Category:</string>
+    <string name="item_nametext">Item Name:</string>
+    <string name="daystext">Days:</string>
+    <string name="note">Note</string>
+    <string name="notetext">Note:</string>
+
+    <string name="gtext">G:</string>
+    <string name="doyouagreetext">Do you agree on the agreement?</string>
+    <string name="dontagreebutton">Don\'t Agree</string>
+    <string name="returndatesample">ReturnDateSample</string>
+    <string name="returndatetext">Return Date:</string>
+    <string name="gsample">GSample</string>
+    <string name="noticetitlesample">NoticeTitleSample</string>
+    <string name="g">G:</string>
+    <string name="contact">Contact</string>
+    <string name="dayssample">DaysSample</string>
+    <string name="a_sample_note">A Sample Note</string>
+    <string name="user_button_going_to_be_a_user_fragment">User button going to be a user fragment</string>
+    <string name="sendReport">Send Report</string>
+    <string name="userNameHere">Email here</string>
+    <string name="whoIsUser">Write the email of the user who you are reporting:</string>
+    <string name="whatWasTheReason">Reason of reporting:</string>
+    <string name="reason">Reason...</string>
+
+</resources>

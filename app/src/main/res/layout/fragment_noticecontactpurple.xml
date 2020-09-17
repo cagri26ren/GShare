@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/NoticePhoto"
+            android:layout_width="249dp"
+            android:layout_height="166dp"
+            android:layout_marginTop="80dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@android:drawable/ic_menu_add" />
+
+        <TextView
+            android:id="@+id/noticeTitle"
+            android:layout_width="210dp"
+            android:layout_height="37dp"
+            android:layout_marginTop="24dp"
+            android:background="#B0673AB7"
+            android:text="@string/noticetitlesample"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toTopOf="@+id/dayText"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/NoticePhoto"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <TextView
+            android:id="@+id/dayText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/daystext"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toTopOf="@+id/CategoryText"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.144"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/NoticePhoto"
+            app:layout_constraintVertical_bias="0.716" />
+
+        <TextView
+            android:id="@+id/GText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:text="@string/g"
+            android:textColor="#00FFFFFF"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.602"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/NoticePhoto" />
+
+        <TextView
+            android:id="@+id/CategoryText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="32dp"
+            android:text="@string/categorytext"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toTopOf="@+id/NoteText"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.062"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/NoteText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="88dp"
+            android:text="@string/notetext"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toTopOf="@+id/contactButton"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.144"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/GText"
+            app:layout_constraintVertical_bias="0.014" />
+
+        <Button
+            android:id="@+id/contactButton"
+            android:layout_width="132dp"
+            android:layout_height="55dp"
+            android:layout_marginBottom="16dp"
+            android:text="@string/contact"
+            android:textAllCaps="false"
+            android:textColor="#B0673AB7"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/noticedays"
+            android:layout_width="105dp"
+            android:layout_height="27dp"
+            android:layout_marginTop="20dp"
+            android:background="#B0673AB7"
+            android:text="@string/dayssample"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            app:layout_constraintEnd_toStartOf="@+id/GText"
+            app:layout_constraintHorizontal_bias="0.351"
+            app:layout_constraintStart_toEndOf="@+id/dayText"
+            app:layout_constraintTop_toBottomOf="@+id/noticeTitle" />
+
+        <TextView
+            android:id="@+id/noticenote"
+            android:layout_width="256dp"
+            android:layout_height="72dp"
+            android:layout_marginTop="84dp"
+            android:background="#B0673AB7"
+            android:text="@string/a_sample_note"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toTopOf="@+id/contactButton"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.44"
+            app:layout_constraintStart_toEndOf="@+id/NoteText"
+            app:layout_constraintTop_toBottomOf="@+id/noticedays"
+            app:layout_constraintVertical_bias="0.019" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toTopOf="@+id/NoticePhoto"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/g_share_logo" />
+
+        <Button
+            android:id="@+id/UserButton"
+            android:layout_width="345dp"
+            android:layout_height="83dp"
+            android:text="@string/user_button_going_to_be_a_user_fragment"
+            android:textAllCaps="false"
+            app:layout_constraintBottom_toTopOf="@+id/contactButton"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/noticenote"
+            app:layout_constraintVertical_bias="0.33" />
+
+        <ImageView
+            android:id="@+id/categoryImageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.281"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.598"
+            app:srcCompat="@drawable/ic_car_black_24dp" />
+
+        <ImageButton
+            android:id="@+id/backButton"
+            style="@android:style/Widget.Material.Light.ImageButton"
+            android:layout_width="46dp"
+            android:layout_height="45dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.064"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.027"
+            app:srcCompat="@drawable/android_arrow_back_1161833" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="10dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/backButton"
+                android:layout_width="0dp"
+                android:layout_height="53dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/android_arrow_back_1161833" />
+
+            <ImageView
+                android:id="@+id/gLogo"
+                android:layout_width="300dp"
+                android:layout_height="40dp"
+                app:srcCompat="@drawable/g_share_logo" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/notice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/notice"
+            android:textAlignment="center"
+            android:textColor="#FF5722"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="224dp"
+            android:layout_height="153dp"
+            android:layout_marginStart="100dp"
+            android:src="@android:drawable/ic_menu_add" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/itemnameText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/item_nametext"
+                android:textColor="#000000"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/itemNameinput"
+                android:layout_width="137dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:layout_marginEnd="28dp"
+                android:autofillHints=""
+                android:clickable="false"
+                android:focusable="false"
+                android:ems="12"
+                android:hint="@string/item_name"
+                android:inputType="textPersonName"
+                tools:targetApi="o" />
+
+            <TextView
+                android:id="@+id/gtext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="G:"
+                android:textColor="#000000"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/ginput"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="4"
+                android:hint="G value"
+                android:clickable="false"
+                android:focusable="false"
+                android:inputType="textPersonName" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="290dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/categoryText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/categorytext"
+                android:textColor="#000000"
+                android:textSize="17sp" />
+
+            <ImageView
+                android:id="@+id/categoryPicImageView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:contentDescription="@string/category_image"
+                app:srcCompat="@drawable/ic_car_black_24dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/daysText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/daystext"
+                android:textColor="#000000"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/daysinput"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autofillHints=""
+                android:ems="4"
+                android:clickable="false"
+                android:focusable="false"
+                android:hint="@string/days"
+                android:inputType="numberDecimal"
+                tools:targetApi="o" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/noteText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="@string/notetext"
+            android:textColor="#000000"
+            android:textSize="17sp" />
+
+        <EditText
+            android:id="@+id/noteinput"
+            android:layout_width="268dp"
+            android:layout_height="44dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:hint="@string/note"
+            android:inputType="textPersonName"
+            android:textColor="#000000"
+            android:clickable="false"
+            android:focusable="false"
+            tools:targetApi="o" />
+
+        <Button
+            android:id="@+id/EditNoticeLending"
+            android:layout_width="250dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="80dp"
+            android:text="@string/edit_notice"
+            android:textAllCaps="false"
+            android:textColor="#FF5722"
+            android:textColorHighlight="#2196F3"
+            android:textSize="18sp" />
+
+
+    </LinearLayout>
+</ScrollView>

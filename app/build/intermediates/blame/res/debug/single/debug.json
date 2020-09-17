@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_noticecontactpurple.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_noticecontactpurple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_quests_button.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\quests_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_single_message.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_single_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_popup_sort_by.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_popup_sort_by.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chat_not_agreed.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_chat_not_agreed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fullyblanklayout.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fullyblanklayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_chatlayoutsended.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\chatlayoutsended.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_blank_layout.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\blank_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chat_done.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_chat_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_tabs.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\menu\\bottom_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bookmark_list_button.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\bookmark_list_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_page.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_borrower_rating.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\borrower_rating.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_homepage.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\activity_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_noticelayout.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\noticelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_chatlayout.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\chatlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notice_small_deletable_lending.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_notice_small_deletable_lending.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fitness_center_black_24dp.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\ic_fitness_center_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noticesecond.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\noticesecond.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_my_notices.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_my_notices.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notice_small_lending.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_notice_small_lending.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_g_logo.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\g_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mynotices.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\activity_mynotices.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notice_edit_lending.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_notice_edit_lending.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_horizontal_line.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\horizontal_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_g_icon.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\g_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_g_icon_with_currency.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\g_icon_with_currency.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_map_black_24dp.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\ic_map_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_black_24dp.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_popup_doyouagree.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_popup_doyouagree.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sortby_icon.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\sortby_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_top_bar.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_top_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_scissors_black_24dp.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\ic_scissors_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_profile_button.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\edit_profile_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_comment.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_g_share_money.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\g_share_money.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chat_returned.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_chat_returned.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_350691.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\img_350691.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notice_small_borrowing.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_notice_small_borrowing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_report.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chat_agreed.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_chat_agreed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_my_notices_black_24dp.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\ic_my_notices_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bookiconforhome.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\bookiconforhome.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_android_arrow_back_1161833.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\android_arrow_back_1161833.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_noticecontactyellow.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_noticecontactyellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bell_icon.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\bell_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_file_report_button.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\file_report_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_bookmark.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\add_bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_navigation_view.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\bottom_navigation_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noticefirst.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\noticefirst.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_navigator.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_navigator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat_black_24dp.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\ic_chat_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_popup_confirm_publish.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_popup_confirm_publish.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lender_rating.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\lender_rating.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_popup_confirm_delete.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_popup_confirm_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pets_black_24dp.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\ic_pets_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_laptop_black_24dp.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\ic_laptop_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notice_edit_borrowing.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_notice_edit_borrowing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_nav_view_new.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\bottom_nav_view_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_createnoticeyellow.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_createnoticeyellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gshare_icon.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\gshare_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notice_view_lending.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_notice_view_lending.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homepage_background_no_notifications.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\homepage_background_no_notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_popup_terminate_deal.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_popup_terminate_deal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_public.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_profile_public.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_navigator.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\activity_navigator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notice_with_comment_borrowing.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_notice_with_comment_borrowing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_edit.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_profile_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_lending_chat_small.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_lending_chat_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_car_black_24dp.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\ic_car_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_school_black_24dp.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\ic_school_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_g_share_logo.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\g_share_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notice_with_comment_lending.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_notice_with_comment_lending.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_photo_camera_black_24dp.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\ic_photo_camera_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notice_small_deletable_borrowing.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_notice_small_deletable_borrowing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homepage_background.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\homepage_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_top_bar.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\top_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calculus.jpg.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\calculus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_purple_line.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\purple_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orange_line.png.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\drawable\\orange_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notice_view_borrowing.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_notice_view_borrowing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_createnoticepurple.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_createnoticepurple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_small.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_profile_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_borrowing_chat_small.xml.flat",
+        "source": "C:\\Users\\Cagri Eren\\Desktop\\GShare\\app\\src\\main\\res\\layout\\fragment_borrowing_chat_small.xml"
+    }
+]

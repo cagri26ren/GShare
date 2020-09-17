@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gshare"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/g_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_person_black_24dp"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        android:usesCleartextTraffic="true" >
+        <activity android:name="com.example.gshare.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.gshare.RegisterActivity" />
+        <activity android:name="com.example.gshare.HomePageActivity" />
+        <activity android:name="com.example.gshare.ChatActivity" />
+        <activity android:name="com.example.gshare.Profile.ProfileActivity" />
+        <activity android:name="com.example.gshare.MyNoticesActivity" />
+        <activity android:name="com.example.gshare.Notice.ActivityContqactTry" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.ConfirmRecoverPasswordActivity"
+            android:theme="@style/FirebaseUI.Dialog" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.EmailHintContainerActivity"
+            android:theme="@style/FirebaseUI.Translucent" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.RecoverPasswordActivity"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.RegisterEmailActivity"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.SignInNoPasswordActivity"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.SignInActivity"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.SaveCredentialsActivity"
+            android:theme="@style/FirebaseUI.Translucent" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.AccountLinkInitActivity"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.WelcomeBackIDPPrompt"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.WelcomeBackPasswordPrompt"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.idp.IDPSignInContainerActivity"
+            android:theme="@style/FirebaseUI.Translucent" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.ChooseAccountActivity"
+            android:theme="@style/FirebaseUI.Translucent" >
+        </activity>
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@style/FirebaseUI.Translucent" />
+
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.example.gshare.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

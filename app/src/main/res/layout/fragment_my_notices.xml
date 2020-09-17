@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/mainFrameLayout"
+    >
+
+    <fragment
+        android:id="@+id/fragment17"
+        android:name="com.example.gshare.TopBarClass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="5dp" />
+
+    <LinearLayout
+        android:id="@+id/lendingBorrowingButtonsLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/lendingButton"
+            android:layout_width="wrap_content"
+            android:layout_height="31dp"
+            android:layout_weight="1"
+            android:background="#FF9800"
+            android:text="@string/lending"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/borrowingButton"
+            android:layout_width="wrap_content"
+            android:layout_height="31dp"
+            android:layout_weight="1"
+            android:background="#673AB7"
+            android:text="@string/borrowing"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="5dp" />
+
+    <ListView
+        android:id="@+id/listmynotices"
+        android:layout_width="wrap_content"
+        android:layout_height="525dp"></ListView>
+
+    <fragment
+        android:id="@+id/navigatorTabFragment"
+        android:name="com.example.gshare.NavigatorFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

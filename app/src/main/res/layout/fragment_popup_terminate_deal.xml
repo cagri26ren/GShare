@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/terminateDealLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/confirmTerminateTextView"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="75dp"
+        android:text="@string/confirm_terminate"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="24sp" />
+
+    <LinearLayout
+        android:id="@+id/yesNoButtons"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="75dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/yesButtonConfirm"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#97F304"
+            android:text="@string/yes" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/noButtonConfirm"
+            android:layout_width="48dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#F52525"
+            android:text="@string/no" />
+    </LinearLayout>
+</LinearLayout>

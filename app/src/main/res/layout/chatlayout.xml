@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_weight="100"
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="37dp"
+        android:layout_weight="20"
+        android:id="@+id/imageChat"
+        ></ImageView>
+    <TextView
+        android:id="@+id/textViewChat"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_weight="80"
+        android:text="TextView"
+        android:layout_marginTop="13dp"
+        />
+</LinearLayout>

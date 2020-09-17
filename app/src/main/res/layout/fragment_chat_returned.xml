@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mainLinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <fragment
+        android:id="@+id/fragment15"
+        android:name="com.example.gshare.TopBarClass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutForNoticeInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <ImageView
+            android:id="@+id/itemImageView"
+            android:layout_width="25dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/item_pic"
+            app:srcCompat="@drawable/calculus" />
+
+        <LinearLayout
+            android:id="@+id/linearLayoutForNames"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/nameButton2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:text="@string/name_surname"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textColor="#140707"
+                android:clickable="false"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/itemName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-condensed-medium"
+                android:text="@string/item_name"
+                android:textColor="#555555"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/terminateButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:layout_weight="1"
+            android:background="#5F5C5B"
+            android:text="@string/terminate" />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000000" />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutForNegotiations"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/daysTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/days_colon"
+            android:textColor="#000000"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/daysEditText"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:focusable="false"
+            android:ems="10"
+            android:inputType="none" />
+
+        <Space
+            android:layout_width="75dp"
+            android:layout_height="12dp"
+            android:layout_weight="1" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="59dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:contentDescription="@string/icon_g"
+            app:srcCompat="@drawable/g_logo" />
+
+        <EditText
+            android:id="@+id/gEditText"
+            android:layout_width="86dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:focusable="false"
+            android:ems="10"
+            android:inputType="none" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/chatListView"
+        android:layout_width="match_parent"
+        android:layout_height="419dp"></ListView>
+
+    <LinearLayout
+        android:id="@+id/horizontalLayoutEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="357dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="@string/type_here"
+            android:inputType="textPersonName" />
+
+        <ImageButton
+            android:id="@+id/imageButtonSend"
+            style="@android:style/Widget.Material.ImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tint="#00FF0000"
+            app:srcCompat="@android:drawable/ic_menu_send" />
+
+    </LinearLayout>
+
+</LinearLayout>
