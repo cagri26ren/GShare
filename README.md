@@ -18,7 +18,7 @@ A group project that is a sharing platform where you can share and borrow items 
 <img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Register.PNG" width="225" height="400" />
 
 <h3>Homepage</h3>
-<div>In homepage users can switch to lengding or borrowing mode by touching the buttons that say "Lend" and "Borrow". They will see the items that other users want to give others in lending mode and in borrowing mode they see the items thar other users want.</div>
+<div>In homepage users can switch to lengding or borrowing mode by touching the buttons that say "Lend" and "Borrow". They will see the items that other users want to give others in lending mode and in borrowing mode they see the items thar other users want. User can reach this page by touching the left first button in the menu.</div>
 
 <p>When user presses lending mode in homepage.</p>
 <img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Homepage.PNG" width="225" height="400" />
