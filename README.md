@@ -101,7 +101,7 @@ A group project that is a sharing platform where you can share and borrow items 
 <img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Profile4.PNG" width="225" height="400" />
 
 <h3>Transitions/Chats</h3>
-<div>In this app transitions are done in a page where you can chat with the customer user about the agreement and if necessary item owner can change the agreement parameters like the day that the item will be given or the price the item will be given. It is better to divide the transition step into multiple steps.</div>
+<div>In this app transitions are done in a page where you can realtime chat with the customer user about the agreement and if necessary item owner can change the agreement parameters like the day that the item will be given or the price the item will be given. It is better to divide the transition step into multiple steps.</div>
 
 <h4>Starting on the Agreement</h4>
 <p>First step when getting into an agreement on taking or giving an item is finding a notice you like and touching the contact button.</p>
