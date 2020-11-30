@@ -64,13 +64,13 @@ A group project that is a sharing platform where you can share and borrow items 
 <p>Whenever user touches the borrowing button, user can view his/her notices for borrowing items from other users.</p>
 <img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Mynotice.PNG" width="225" height="400" />
 
-<div>Users can view the notice they want from this page by touching the notice they want to view</div>
+<div>Users can view the notice they want from this page by touching the notice they want to view.</div>
 
-<p>Users can view his/her lending notice</p>
-<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/MyNotice4.PNG" width="225" height="400" />
+<p>Users can view his/her lending notice.</p>
+<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Mynotice4.PNG" width="225" height="400" />
 
-<p>Users can view his/her borrowing notice</p>
-<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/MyNotice3.PNG" width="225" height="400" />
+<p>Users can view his/her borrowing notice.</p>
+<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Mynotice3.PNG" width="225" height="400" />
 
 <h3>View Your Own Notices</h3>
 <div>Users can edit the notices they created by touching the edit button in the page they view their notice.</div>
@@ -101,19 +101,39 @@ A group project that is a sharing platform where you can share and borrow items 
 <img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Profile4.PNG" width="225" height="400" />
 
 <h3>Transitions/Chats</h3>
-<div>Profile pages can be divided into the profile your own (private profile) and profile that other people can view (public profile).</div>
+<div>In this app transitions are done in a page where you can chat with the customer user about the agreement and if necessary item owner can change the agreement parameters like the day that the item will be given or the price the item will be given. It is better to divide the transition step into multiple steps.</div>
 
-<p>In the private profile you can view all the notices you have posted, edit your profile and report other people. This page is accesed by touching the last button in the menu.</p>
-<p>Profile page</p>
-<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Profile.PNG" width="225" height="400" />
+<h4>Starting on the Agreement</h4>
+<p>First step when getting into an agreement on taking or giving an item is finding a notice you like and touching the contact button.</p>
+<p>Then the users are taken in to a chatting/transition page.</p>
+<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Chat.PNG" width="225" height="400" />
 
-<p>You can change your name and password.</p>
-<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Profile2.PNG" width="225" height="400" />
+<p>User can leave this page whenever he/she wants. This chat will be saved a page called chats where user can see his/her ongoing transitions and chats. User can get into a spesific chat by touching one of the boxes which shows detailed information about ongoing transitions. User can reach this page by touching 4th button from the left in the menu.</p>
+<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Chat7.PNG" width="225" height="400" />
 
-<p>You can report other people for any valid reason</p>
-<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Profile3.PNG" width="225" height="400" />
+<h4>Comunicating with the other user</h4>
+<p>You can communicate with the other user about changing the parameters of the agreement before touching the agree button. Item giver can not make the price higher if it is a lending notice. If the user that will give "G" does not have enough "G" agreement will not be accepted by the system.</p>
+<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Chat2.PNG" width="225" height="400" />
 
-<p>In the public profile you can view all the notices user has posted. You can reach this page by touching to go to profile button in their notice or touching their name in the chat/transition page</p>
-<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Profile4.PNG" width="225" height="400" />
+<p>A pop up will appear whenever you press the agree button. Until both users agree agreement will not start.</p>
+<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Chat3.PNG" width="225" height="400" />
+
+<h4>When the exchange is agreed</h4>
+<p>Chat turns to this page when the exchange is agreed.</p>
+<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Chat4.PNG" width="225" height="400" />
+
+<p>Users can terminate the item if they need it to. This can be done by the person who took the item. "G" transfer will be done by the system according to the days that item is shared.</p>
+<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Chat6.PNG" width="225" height="400" />
+
+<h4>Agreement time is fulfilled</h4>
+<p>Chat turns to this page when the agreement time is fulfilled.</p>
+<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Chat8.PNG" width="225" height="400" />
+
+<p>If item is did not returned to the user, the user that gives the item can report the other user by touching the not returned button.</p>
+<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Chat9.PNG" width="225" height="400" />
+
+<p>If item is  returned to the user, agreement will be completed by touching the returned button and "G" transfer will be done.</p>
+<img src="https://github.com/cagri26ren/GShare/blob/master/Pictures/Chat10.PNG" width="225" height="400" />
+
 
 
